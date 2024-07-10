@@ -3,3 +3,4 @@ libtaxii==1.1.111
 cybox==2.1.0.14
 stix==1.2.0.4
 stix-ramrod==1.2.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
